@@ -1,3 +1,6 @@
-name - snadeep
+name - sandeep
 company - synamedia
 place - bengaluru
+state - Karnataka
+
+new to world
